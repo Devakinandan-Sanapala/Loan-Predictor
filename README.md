@@ -35,4 +35,4 @@ For example, if you enter Applicant Income: 5000, Co-applicant Income: 2000, Loa
 
 ## Author
 
-- Ramidi Sharan Tej Reddy
+- Devakinandan-Sanapala
